@@ -27,7 +27,9 @@ To populate your database schema and load the initial documentation pages.
 bundle exec rake db:migrate doccoli:install_guides
 ```
 
-All set!, you can (re)start your Rails application and browse to `/docs` path to view your shiny new documentation system.
+All set!
+
+Now you can (re)start your Rails application and browse to `/docs` path to view your shiny new documentation system.
 
 
 ## Contributing

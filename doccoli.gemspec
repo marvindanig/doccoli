@@ -9,9 +9,9 @@ Gem::Specification.new do |s|
   s.version     = Doccoli::VERSION
   s.authors     = ["Marvin Danig"]
   s.email       = ["marvin@marvindanig.com"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of Doccoli."
-  s.description = "TODO: Description of Doccoli."
+  s.homepage    = "https://marvindanig.com"
+  s.summary     = "Handcrafted documentation for your rails 5.1+ applications."
+  s.description = "Doccoli is a modern lightweight rails engine that provides for management of hierarchical documentation."
   s.license     = "MIT"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.md"]
